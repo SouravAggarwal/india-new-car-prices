@@ -17,7 +17,7 @@ from 24 brands, and what road tax, registration and insurance add in every India
   publishes one price for the whole country, or the city the maker's price is for (`Delhi`).
 - **Road tax:** each state's own Motor Vehicles Taxation Act, rules and notifications, read from the state's gazette or
   transport department. `tax_rule_sources` lists them. Registration fees follow the Central Motor Vehicles Rules;
-  insurance follows the IRDAI third-party rates and the standard own-damage tariff; TCS is 1 % above ₹10 lakh.
+  insurance follows the IRDAI third-party rates and the standard own-damage tariff; TCS is 1 % of the whole price for a car above ₹10 lakh.
 - **Insurance and on-road totals are estimates.** A dealer's insurance quote and extra charges (fastag, accessories,
   handling) differ. The road tax is the rule applied to the example car; check the state's source for your own car.
 - A blank cell means the maker does not publish that figure. Nothing is guessed or filled in.
