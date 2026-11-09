@@ -10,6 +10,11 @@ from 24 brands, and what road tax, registration and insurance add in every India
 | `india-new-car-prices.csv` | 1,856 variants (1,701 with a price) | brand, model, variant, body, fuel, gearbox, the maker's ex-showroom price in rupees, main specs, the maker's page it came from, the CarUnbox page |
 | `road-tax-by-state.csv` | 103 (3 example cars × the states with confirmed rules) | road tax with cess, registration, insurance, TCS and the on-road total, with links to the government documents the tax comes from |
 
+## Also on Kaggle
+
+- Dataset: [India New Car Prices and Road Tax by State](https://www.kaggle.com/datasets/souravaggarwal/india-new-car-prices-and-road-tax-by-state)
+- Starter notebook: [Road tax by state in 5 charts](https://www.kaggle.com/code/souravaggarwal/road-tax-by-state-in-5-charts)
+
 ## Where the numbers come from
 
 - **Prices and specs:** only the carmaker's own website (its car page, price page and spec table). Never a dealer, a
